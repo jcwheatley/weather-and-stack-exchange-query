@@ -1,0 +1,20 @@
+body{
+
+
+}
+
+.left{
+	top:0;
+	float:left;
+	width: 50%;
+
+}
+
+.right{
+	top:0;
+	float:right;
+	width: 50%;
+}
+
+
+
